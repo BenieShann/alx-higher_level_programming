@@ -1,5 +1,5 @@
 
-#.0X00.Python - Hello, World
+# 0X00.Python - Hello, World
 
 ## Resources
 
